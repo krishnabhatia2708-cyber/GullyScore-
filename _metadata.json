@@ -1,0 +1,82 @@
+{
+  "hash": "edab573a",
+  "configHash": "254f9980",
+  "lockfileHash": "04e1b697",
+  "browserHash": "0bd96b49",
+  "optimized": {
+    "react": {
+      "src": "../../.pnpm/react@18.3.1/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c1c35245",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "8fdf085d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../.pnpm/react@18.3.1/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "15ad7397",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../.pnpm/react@18.3.1/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "abe9dba5",
+      "needsInterop": true
+    },
+    "@supabase/supabase-js": {
+      "src": "../../.pnpm/@supabase+supabase-js@2.108.2/node_modules/@supabase/supabase-js/dist/index.mjs",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "21178126",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../.pnpm/framer-motion@12.41.0_react_1038e4575dddb0bf6641e11e8fa8b841/node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "9f11ecea",
+      "needsInterop": false
+    },
+    "jspdf": {
+      "src": "../../.pnpm/jspdf@4.2.1/node_modules/jspdf/dist/jspdf.es.min.js",
+      "file": "jspdf.js",
+      "fileHash": "71e5f419",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "cbc679f4",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "html2canvas.esm-SDFIFXDT": {
+      "file": "html2canvas__esm-SDFIFXDT.js"
+    },
+    "purify.es-24B2PVS2": {
+      "file": "purify__es-24B2PVS2.js"
+    },
+    "index.es-JDI7JXFM": {
+      "file": "index__es-JDI7JXFM.js"
+    },
+    "chunk-PFB2DX5X": {
+      "file": "chunk-PFB2DX5X.js"
+    },
+    "chunk-HPQWVKRE": {
+      "file": "chunk-HPQWVKRE.js"
+    },
+    "chunk-ULTDF24S": {
+      "file": "chunk-ULTDF24S.js"
+    },
+    "chunk-BMEPZ7US": {
+      "file": "chunk-BMEPZ7US.js"
+    },
+    "chunk-2TUXWMP5": {
+      "file": "chunk-2TUXWMP5.js"
+    }
+  }
+}

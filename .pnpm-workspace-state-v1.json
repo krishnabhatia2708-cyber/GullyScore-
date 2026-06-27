@@ -1,0 +1,42 @@
+{
+  "lastValidatedTimestamp": 1782362162361,
+  "projects": {
+    "C:\\Users\\kirti\\Documents\\Codex\\2026-06-25\\you-are-a-senior-staff-software\\work\\project\\project": {
+      "name": "vite-react-typescript-starter",
+      "version": "0.0.0"
+    }
+  },
+  "pnpmfiles": [],
+  "settings": {
+    "allowBuilds": {
+      "core-js": true,
+      "esbuild": true
+    },
+    "autoInstallPeers": true,
+    "catalogs": {},
+    "dedupeDirectDeps": false,
+    "dedupeInjectedDeps": true,
+    "dedupePeerDependents": true,
+    "dedupePeers": false,
+    "dev": true,
+    "excludeLinksFromLockfile": false,
+    "hoistPattern": [
+      "*"
+    ],
+    "hoistWorkspacePackages": true,
+    "injectWorkspacePackages": false,
+    "linkWorkspacePackages": false,
+    "minimumReleaseAge": 1440,
+    "minimumReleaseAgeIgnoreMissingTime": true,
+    "nodeLinker": "isolated",
+    "optional": true,
+    "peersSuffixMaxLength": 1000,
+    "preferWorkspacePackages": false,
+    "production": true,
+    "publicHoistPattern": [],
+    "workspacePackagePatterns": [
+      "."
+    ]
+  },
+  "filteredInstall": false
+}
